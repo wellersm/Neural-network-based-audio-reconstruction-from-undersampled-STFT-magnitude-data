@@ -1,4 +1,4 @@
-# Intrdouction 
+# Introduction 
 
 This is the code repository for "Neural network-based audio reconstruction from
 undersampled STFT magnitude data". 
