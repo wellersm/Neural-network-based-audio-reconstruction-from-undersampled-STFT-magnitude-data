@@ -1,7 +1,7 @@
 # Introduction 
 
 This is the code repository for "Neural network-based audio reconstruction from
-undersampled STFT magnitude data". 
+undersampled STFT magnitude data". Read our paper published in EUSIPCO 2024 (here)[https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0000406.pdf]!
 
 # Dataset
 
